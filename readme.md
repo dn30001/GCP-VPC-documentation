@@ -4,7 +4,7 @@
 1. Open the Google Cloud Platform (GCP) console.
 2. Select the desired project.
 
-<img src="https://github.com/dn30001/GCP-VPC-documentation/blob/main/01%20select%20project.PNG" width="50%" height="50%">
+<img src="https://github.com/dn30001/GCP-VPC-documentation/blob/main/01%20select%20project.PNG">
 
 ### Go to search bar
 3. Type in "VPC networks" and click on "VPC networks" in the drop down list.
