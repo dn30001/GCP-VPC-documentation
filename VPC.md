@@ -23,7 +23,7 @@
 
 9. Under 'New subnet', give it a name, description (optional), and specify a region.
 10. Under 'IP stack type', leave it checked on IPv4 (single stack)
-11. Enter your designated IP range value in the 'IPv4 range' field
+11. Enter your designated IP range value in the 'IPv4 range' field. The subnet we are using for this VPC is '10.133.1.0/24'.
 
 <img src="https://github.com/dn30001/GCP-VPC-documentation/blob/main/04%20vpc%20ip%20values.PNG">
 
