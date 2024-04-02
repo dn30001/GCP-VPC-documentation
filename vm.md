@@ -27,7 +27,7 @@ You must be working from the same Google Cloud project as the one you created yo
 <img src="https://github.com/dn30001/GCP-VPC-documentation/blob/main/-06%20startup%20script.PNG">
 
 7. Click on the blue <b>'Create'</b> button at the bottom of the screen to create your VM.
-8. When the instance is done being created, copy the 'External IP' for your VM instance address on the 'WM instances' page.  Use 'http://   ' and the external IP address that was copied to paste and open in the browswer. The code in your startup script should dictate the contents of your published website that is run from the VM in your VPC network.
+8. When the instance is done being created, copy the 'External IP' for your VM instance address on the 'WM instances' page.  Use 'http://   ' and the external IP address that was copied to paste and open in the browser. The code in your startup script should dictate the contents of your published website that is run from the VM in your VPC network.
 
 <img src="https://github.com/dn30001/GCP-VPC-documentation/blob/main/-07%20external%20ip.PNG">
 
